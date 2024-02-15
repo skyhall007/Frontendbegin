@@ -1,0 +1,59 @@
+@font-face {
+    font-family: Outfit-Bold;
+    src: local(Outfit-Bold), url(font/Outfit-Bold.ttf), format(.ttf);
+}
+
+@font-face {
+    font-family: Outfit-Medium;
+    src: local(Outfit-Medium), url(font/Outfit-Medium.ttf), format(.ttf);
+}
+
+
+
+
+body {
+    margin: 0 auto;
+    max-width: 1440px;
+    background-color: hsl(212, 45%, 89%);
+}
+
+
+
+
+.card {
+    background-color: white;
+    height: 485px;
+    width: 310px;
+    border-radius: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 10%;
+}
+
+img {
+    width: 280px;
+    border-radius: 10px;
+    justify-content: center;
+    margin-top: 15px;
+    
+}
+
+.gras {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: Outfit-Bold;
+    color: hsl(218, 44%, 22%);
+}
+
+.simple {
+    font-size: 15px;
+    font-family: Outfit-Medium;
+    color: hsl(220, 15%, 55%);
+}
+
+.text {
+    text-align: center;
+    
+}
