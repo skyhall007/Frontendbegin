@@ -1,11 +1,11 @@
 @font-face {
     font-family: Outfit-Bold;
-    src: local(Outfit-Bold), url(font/Outfit-Bold.ttf), format(.ttf);
+    src: local(Outfit-Bold), url(Outfit-Bold.ttf), format(.ttf);
 }
 
 @font-face {
     font-family: Outfit-Medium;
-    src: local(Outfit-Medium), url(font/Outfit-Medium.ttf), format(.ttf);
+    src: local(Outfit-Medium), url(Outfit-Medium.ttf), format(.ttf);
 }
 
 
