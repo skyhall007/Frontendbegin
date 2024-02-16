@@ -9,16 +9,14 @@
 }
 
 
-
-
 body {
-    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
     max-width: 1440px;
     background-color: hsl(212, 45%, 89%);
+    justify-content: center;
+    align-items: center;
 }
-
-
-
 
 .card {
     background-color: white;
@@ -28,8 +26,6 @@ body {
     text-align: center;
     justify-content: center;
     align-items: center;
-    margin: auto;
-    margin-top: 10%;
 }
 
 img {
@@ -55,5 +51,4 @@ img {
 
 .text {
     text-align: center;
-    
 }
